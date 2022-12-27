@@ -1,6 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
 
+// import React from 'react';
+// // how to import the remote module in a React component?
+// const electron = window.require('electron');
+// const remote = electron.remote
+// const {BrowserWindow,dialog,Menu} = remote
+
 function App() {
   return (
     <div className="App">
